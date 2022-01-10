@@ -10,14 +10,13 @@ import ffmpeg
 
 pytube.request.default_range_size = 1048576 # 1MB chunk size
 
-completed_and_progress_bar=True
+COMPLETED=True
 def completed(artist, song_name):
-    if completed_and_progress_bar:
+    if COMPLETED==True:
         print(f"\n {status.default_filename} Downloaded successfully\n enjoy :)\n")
 
 def progress_bar(chunk,_fifromle_handle,bytes_remaining):
-    if completed_and_progress_bar:
-        print(f"{round(bytes_remaining*0.000001)} MB remaining")
+    print(f"{round(bytes_remaining*0.000001)} MB remaining")
 
 #Getting the link from user, and then diagnosis the link if its the single video URL or a whole playlist
 while True:
@@ -55,11 +54,15 @@ def vq_available(res):
     if available:
         return f"{round(available.filesize*0.000001)} MB" 
     else:
-        progressive=False
-        available = yt.streams.filter(file_extension='mp4',res=res)
-        available = yt.streams.filter(file_extension='mp4',res=res).get_by_itag(available[0].itag)
-        return f"{round(available.filesize*0.000001)} MB (adaptive , will merge with ffmpeg)"
-
+        try:
+            progressive=False
+            available = yt.streams.filter(file_extension='mp4',res=res)
+            available = yt.streams.filter(file_extension='mp4',res=res).get_by_itag(available[0].itag)
+            global yt_a
+            yt_a=yt.streams.filter( adaptive=True , only_audio=True, abr='128kbps').get_audio_only()
+            return f"{round(available.filesize*0.000001+yt_a.filesize*0.000001)} MB (adaptive , will merge with ffmpeg)"
+        except:
+            return 'Unavailable, Resolution does not exist'
 #Function for choosing video resolution quality
 def video_quality():
     quality = input(f'\n Please choose the resolution ( Note : if you press somthing else, default will be 720p ) \
@@ -71,7 +74,7 @@ def video_quality():
     res = '720p' 
     if quality == '1': print('Be aware that High quality takes a little time...\n \
     the audio & video must download separately and then they will merge together \ '
-    'with ffmpeg and after creating new mp4 file , they will be removed'),sleep(5)
+    'with ffmpeg and after creating new mp4 file , they will be removed'),sleep(3)
     if quality in resolution.keys() : res = resolution[quality]
     if quality in ('n','N'): quit()
     return res
@@ -141,20 +144,24 @@ elif status == '2':
             status.download(output_path = path ,filename = file_name)
             exit()
         else:
+            size=available.filesize*0.000001+yt_a.filesize*0.000001
+            print(f'\t File size -> {round(size)} MB\n\tFile name -> {available.default_filename}')
+            file_name =yt.title+ '.mp3'
             path = 'Y:/Youtube Videos/New folder'
             #Downloading the file that have only audio  
+            COMPLETED=False
             try:
                 yt_a=yt.streams.filter( adaptive=True , only_audio=True , abr='160kbps' ).get_audio_only()
                 status=yt_a
-                status.download(output_path=path,filename=yt_a.default_filename) 
+                status.download(output_path=path,filename=file_name) 
             except:
                 yt_a=yt.streams.filter( adaptive=True , only_audio=True)
                 abr = sorted(list(map(lambda f:f.abr,yt_a)))
                 yt_a=yt.streams.filter(adaptive=True,only_audio=True,abr=abr[0]).get_audio_only()
                 status=yt_a
-                status.download(output_path=path,filename=yt_a.default_filename) 
+                status.download(output_path=path,filename=file_name) 
             #Downloading the file that have only video (no sound) 
-            print(f'\t File size -> {round(available.filesize*0.000001)} MB\n\tFile name -> {available.default_filename}')
+            COMPLETED=True
             print('loading......')
             yt_v=available
             status=yt_v
@@ -162,10 +169,12 @@ elif status == '2':
 
     #Merging audio & video into one single mp4 file with the help of ffmpeg
     input_video = ffmpeg.input(f'Y:/Youtube Videos/New folder/{yt_v.default_filename}')
-    input_audio = ffmpeg.input(f'Y:/Youtube Videos/New folder/{yt_a.default_filename}')
+    input_audio = ffmpeg.input(f'Y:/Youtube Videos/New folder/{yt_a.title}.mp3')
     ffmpeg.concat(input_video, input_audio, v=1, a=1).output(f'Y:/Youtube Videos/{yt.title}(AYD).mp4').run()
     #Removing the unwanted files
     os.remove(f'Y:/Youtube Videos/New folder/{yt_v.default_filename}')
-    os.remove(f'Y:/Youtube Videos/New folder/{yt_a.default_filename}')
+    os.remove(f'Y:/Youtube Videos/New folder/{yt_a.title}.mp3')
+    print()
+    print('Merging was successful & everything worked fine :)')
 #Thats it, we are done here
 sleep(5)
