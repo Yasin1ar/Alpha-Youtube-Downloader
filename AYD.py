@@ -15,6 +15,9 @@ COMPLETED=True
 def completed(artist, song_name):
     if COMPLETED==True:
         print(f"\n {status.default_filename} Downloaded successfully\n enjoy :)\n")
+    else:
+        print('\nPart 1 (audio) downloaded successfuly')
+        print('Startin Part 2 (Video) ....\n')
 
 def progress_bar(chunk,_fifromle_handle,bytes_remaining):
     print(f"{round(bytes_remaining*0.000001)} MB remaining")
@@ -49,12 +52,12 @@ while stat() not in ('1', '2'):
 #Function for checking the chosen video resolution quality
 def video_res():
     global available
-    global merge
+    global full_size
     global res
     num=1
     res='720p'
     resolutions={}
-    banner='\nPlease choose the resolution ( Note : if you press somthing else, default will be 720p ) :'
+    banner='\nPlease choose the resolution ( Note : if you press somthing else, default will be 720p or lower ) :'
     banner_flag=True
     available=yts.streams.filter(file_extension='mp4',res='1080p',adaptive=True) 
     if available :  
@@ -64,7 +67,8 @@ def video_res():
         size=available.get_by_itag(available[0].itag).filesize
         if banner_flag:print(banner)
         banner_flag=False
-        print( f'{num} --> {res} {round(size*0.000001+size_a*0.000001)} MB')
+        full_size=round(size*0.000001+size_a*0.000001)
+        print( f'{num} --> {res} {full_size} MB')
         resolutions[str(num)]=yts.streams.filter(file_extension='mp4',type='video',res='1080p')[0]
         num+=1 
     available=yts.streams.filter(file_extension='mp4',type='video',res='720p')
@@ -73,7 +77,8 @@ def video_res():
         size=available.get_by_resolution(res).filesize
         if banner_flag:print(banner)
         banner_flag=False
-        print( f'{num} --> {res} {round(size*0.000001)} MB')
+        full_size=round(size*0.000001)
+        print( f'{num} --> {res} {full_size} MB')
         resolutions[str(num)]=yts.streams.filter(file_extension='mp4',type='video',res='720p')[0]
         num+=1
     available=yts.streams.filter(file_extension='mp4',res='480p',adaptive='480') 
@@ -84,14 +89,16 @@ def video_res():
         size_a=available_a.filesize
         if banner_flag:print(banner)
         banner_flag=False
-        print( f'{num} --> {res} {round(size*0.000001+size_a*0.000001)} MB')
+        full_size=round(size*0.000001+size_a*0.000001)
+        print( f'{num} --> {res} {full_size} MB')
         resolutions[str(num)]=yts.streams.filter(file_extension='mp4',type='video',res='480p')[0]
         num+=1
     available=yts.streams.filter(file_extension='mp4',type='video',res='360p')
     if available :
         res='360p'
         size=available.get_by_resolution(res).filesize
-        print( f'{num} --> {res} {round(size*0.000001)} MB')
+        full_size=round(size*0.000001)
+        print( f'{num} --> {res} {full_size} MB')
         resolutions[str(num)]=yts.streams.filter(file_extension='mp4',type='video',res='360p')[0]
         num+=1
     available=yts.streams.filter(file_extension='mp4',type='video',res='240p',adaptive=True)
@@ -100,12 +107,12 @@ def video_res():
         available_a=yts.streams.filter(only_audio=True,abr='128kbps',adaptive=True).get_audio_only() 
         size=available.get_by_itag(available[0].itag).filesize
         size_a=available_a.filesize
-        print( f'{num} --> {res} {round(size*0.000001+size_a*0.000001)} MB')
+        full_size=round(size*0.000001+size_a*0.000001)
+        print( f'{num} --> {res} {full_size} MB')
         resolutions[str(num)]=yts.streams.filter(file_extension='mp4',type='video',res='240p')[0]
     key=input('$ ')
     available=yts.streams.filter(file_extension='mp4',type='video',progressive=True).get_highest_resolution()
     if key in resolutions.keys(): available=resolutions[key]
-
 #If the link is a playlist URL, its not? we ignore this part and move on
 try:
     if Playlist(link):
@@ -168,40 +175,40 @@ if status == '1':
 elif status == '2':
     path='Y:/Youtube Videos/New folder'
     video_res()
-    print(f'\t File size -> {round(available.filesize*0.000001)} MB\n\tFile name -> {available.default_filename}')
+    print(f'\t File size -> {full_size} MB\n\tFile name -> {available.default_filename}\n')
     status=available
     try:
         status.get_by_resolution(res).download(output_path=path,filename=status.default_filename)
         sleep(5)
         exit()
     except http.client.IncompleteRead:
-        print('Network Error, please check your internet connection and then try again\n')
+        print('\nNetwork Error, please check your internet connection and then try again\n')
     except:
         print('Be aware that High quality takes a little time...\n \
     the audio & video must download separately and then they will merge together \ '
     'with ffmpeg and after creating new mp4 file , they will be removed\n')
     try:
-        video=status.get_by_itag(status[0].itag)
         yt_a=yts.streams.filter( adaptive=True , only_audio=True)
         abr = sorted(list(map(lambda f:f.abr,yt_a)))
         yt_a=yts.streams.filter(only_audio=True,abr=abr[0],adaptive=True).get_audio_only()
         COMPLETED=False
+        print('starting part 1 (Audio) ...\n')
         yt_a.download(output_path=path,filename=yt_a.title+'.mp3')
         COMPLETED=True
-        video.download(output_path=path,filename=status.default_filename)
+        status.download(output_path=path,filename=status.default_filename)
     except http.client.IncompleteRead:
-        print('Network Error, please check your internet connection and then try again')
+        print('\nNetwork Error, please check your internet connection and then try again')
     except:
         status.download(output_path=path,filename=status.default_filename)
         sleep(5)
         exit()
         
     #Merging audio & video into one single mp4 file with the help of ffmpeg
-    input_video = ffmpeg.input(f'Y:/Youtube Videos/New folder/{video.default_filename}')
+    input_video = ffmpeg.input(f'Y:/Youtube Videos/New folder/{status.default_filename}')
     input_audio = ffmpeg.input(f'Y:/Youtube Videos/New folder/{yt_a.title}.mp3')
-    ffmpeg.concat(input_video, input_audio, v=1, a=1).output(f'Y:/Youtube Videos/{yt.title}(AYD).mp4').run()
+    ffmpeg.concat(input_video, input_audio, v=1, a=1).output(f'Y:/Youtube Videos/{yts.title}(AYD).mp4').run()
     #Removing the unwanted files
-    os.remove(f'Y:/Youtube Videos/New folder/{video.default_filename}')
+    os.remove(f'Y:/Youtube Videos/New folder/{status.default_filename}')
     os.remove(f'Y:/Youtube Videos/New folder/{yt_a.title}.mp3')
     print()
     print('Merging was successful & everything worked fine :)')
