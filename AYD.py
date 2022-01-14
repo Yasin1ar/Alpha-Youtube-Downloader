@@ -32,6 +32,7 @@ while True:
         PLAYLIST=True
         if ans not in ('No','no','N','n'):
             break
+        else: continue
     except:
         pass
     try:
@@ -39,6 +40,7 @@ while True:
         ans=input((f'\n {yts.title} found! press anything to continue (press "N" or "n" if it\'s not what you want)'))
         if ans not in ('No','no','N','n'):
             break
+        else: continue
     except:
         print('\n link is not valid, try again')
 
@@ -65,7 +67,7 @@ def video_res():
     available_a=yts.streams.filter(only_audio=True,abr='128kbps',adaptive=True).get_audio_only()
     size_a=available_a.filesize 
     available=yts.streams.filter(file_extension='mp4',res='1080p',adaptive=True) 
-    if available :  
+    if available : 
         res='1080p'
         size=available.get_by_itag(available[0].itag).filesize
         if banner_flag:print(banner)
