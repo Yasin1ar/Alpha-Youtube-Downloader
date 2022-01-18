@@ -1,0 +1,766 @@
+{'text': 'because we know now that evolutions will', 'start': 0.16, 'duration': 4.32}
+{'text': 'soon be a thing so instead of looking at', 'start': 2.399, 'duration': 3.44}
+{'text': "a chart like this we're going to be", 'start': 4.48, 'duration': 3.439}
+{'text': 'looking at a chart like this we are', 'start': 5.839, 'duration': 4.961}
+{'text': 'looking at 705', 'start': 7.919, 'duration': 5.441}
+{'text': "billion total combinations what's going", 'start': 10.8, 'duration': 4.879}
+{'text': 'on axifam elijah here back with another', 'start': 13.36, 'duration': 4.48}
+{'text': 'video today i have one that i am very', 'start': 15.679, 'duration': 4.881}
+{'text': 'excited about joining me is one of the', 'start': 17.84, 'duration': 5.519}
+{'text': 'newest members of the meditate family', 'start': 20.56, 'duration': 5.6}
+{'text': 'and that is ryan who also goes by axi', 'start': 23.359, 'duration': 4.881}
+{'text': 'faction which is his youtube channel', 'start': 26.16, 'duration': 3.359}
+{'text': "there's going to be a link to that in", 'start': 28.24, 'duration': 3.359}
+{'text': 'the description below ryan puts out', 'start': 29.519, 'duration': 4.481}
+{'text': 'amazing content covering the most', 'start': 31.599, 'duration': 4.321}
+{'text': "important topics of what's happening in", 'start': 34.0, 'duration': 4.16}
+{'text': 'the axi infinity universe i reached out', 'start': 35.92, 'duration': 3.76}
+{'text': 'to him because i was so impressed with', 'start': 38.16, 'duration': 4.559}
+{'text': 'his videos and he has joined mt8 which', 'start': 39.68, 'duration': 4.399}
+{'text': 'is amazing thanks for being on the', 'start': 42.719, 'duration': 3.121}
+{'text': "channel today ryan of course it's a", 'start': 44.079, 'duration': 2.96}
+{'text': 'pleasure thanks for having me on the', 'start': 45.84, 'duration': 3.12}
+{'text': "channel today we're going to be", 'start': 47.039, 'duration': 5.04}
+{'text': 'discussing slp and if the price will', 'start': 48.96, 'duration': 5.04}
+{'text': 'ever recover before we get into the', 'start': 52.079, 'duration': 4.721}
+{'text': 'details what are your initial thoughts', 'start': 54.0, 'duration': 4.719}
+{'text': 'on the current situation here you know', 'start': 56.8, 'duration': 4.239}
+{'text': "slp it's such a loaded topic to be", 'start': 58.719, 'duration': 4.961}
+{'text': 'perfectly honest slp is the main', 'start': 61.039, 'duration': 4.801}
+{'text': 'utility token for breeding and i think', 'start': 63.68, 'duration': 3.119}
+{'text': "we're going to get into that a little", 'start': 65.84, 'duration': 3.76}
+{'text': 'bit because breeding has really yet to', 'start': 66.799, 'duration': 4.32}
+{'text': 'see its stride a lot of people think', 'start': 69.6, 'duration': 2.8}
+{'text': "that breeding's a little bit out of", 'start': 71.119, 'duration': 3.201}
+{'text': 'control but when i go through everything', 'start': 72.4, 'duration': 3.359}
+{'text': "i have prepared for you it's really", 'start': 74.32, 'duration': 2.799}
+{'text': 'going to put things into perspective', 'start': 75.759, 'duration': 3.36}
+{'text': 'with how far we still have to go you', 'start': 77.119, 'duration': 3.441}
+{'text': "know we're in the middle of a transition", 'start': 79.119, 'duration': 3.521}
+{'text': 'period right now between battles v1 and', 'start': 80.56, 'duration': 4.239}
+{'text': "battles v2 um and i think that's we're", 'start': 82.64, 'duration': 3.839}
+{'text': "calling it v3 now i don't know i get", 'start': 84.799, 'duration': 3.36}
+{'text': "yelled at oh yeah that's right that's", 'start': 86.479, 'duration': 2.64}
+{'text': 'right', 'start': 88.159, 'duration': 2.721}
+{'text': "that is v3 i've gotten i've gotten a", 'start': 89.119, 'duration': 3.601}
+{'text': 'little bit of that myself yeah so i', 'start': 90.88, 'duration': 3.76}
+{'text': 'really do want to focus on v3 because', 'start': 92.72, 'duration': 3.92}
+{'text': 'that is the closest thing that we know', 'start': 94.64, 'duration': 3.6}
+{'text': 'is is coming down the road work yeah', 'start': 96.64, 'duration': 3.2}
+{'text': "absolutely i think that there's a lot of", 'start': 98.24, 'duration': 4.48}
+{'text': 'implications coming with uh this this', 'start': 99.84, 'duration': 4.72}
+{'text': "big transition that you're talking about", 'start': 102.72, 'duration': 3.84}
+{'text': 'before we get into the details i just', 'start': 104.56, 'duration': 3.44}
+{'text': 'want to say one more thing about', 'start': 106.56, 'duration': 5.04}
+{'text': 'meditate the guild we are recruiting', 'start': 108.0, 'duration': 5.439}
+{'text': "people we're now in the off season so we", 'start': 111.6, 'duration': 4.08}
+{'text': 'have applications open for people who', 'start': 113.439, 'duration': 4.64}
+{'text': 'want to join as scholars if you want to', 'start': 115.68, 'duration': 5.2}
+{'text': 'join as a semi-pro player you can apply', 'start': 118.079, 'duration': 5.281}
+{'text': 'for that and then if you want to join as', 'start': 120.88, 'duration': 4.96}
+{'text': 'a content creator or a community member', 'start': 123.36, 'duration': 4.399}
+{'text': "that is open as well so if you're an", 'start': 125.84, 'duration': 3.759}
+{'text': 'artist or writer you want to contribute', 'start': 127.759, 'duration': 4.56}
+{'text': 'to us in our long-term vision then there', 'start': 129.599, 'duration': 4.401}
+{'text': 'is a place for you to apply there will', 'start': 132.319, 'duration': 3.601}
+{'text': 'be links in the description for all', 'start': 134.0, 'duration': 4.72}
+{'text': 'three of those positions and our discord', 'start': 135.92, 'duration': 5.36}
+{'text': 'is now public and open to everyone where', 'start': 138.72, 'duration': 5.28}
+{'text': 'you can just join and hang out talk pvp', 'start': 141.28, 'duration': 5.12}
+{'text': 'you can learn more about meditate the', 'start': 144.0, 'duration': 4.64}
+{'text': "meditate training academy so there's a", 'start': 146.4, 'duration': 3.76}
+{'text': 'link to our discord in the description', 'start': 148.64, 'duration': 3.36}
+{'text': 'below as well if you feel like checking', 'start': 150.16, 'duration': 4.0}
+{'text': "that out okay let's jump right back into", 'start': 152.0, 'duration': 3.92}
+{'text': 'the action what are we starting with you', 'start': 154.16, 'duration': 3.439}
+{'text': "know i'm not a financial advisor i'm not", 'start': 155.92, 'duration': 3.44}
+{'text': "an expert by any means i'm a gamer and a", 'start': 157.599, 'duration': 3.841}
+{'text': 'crypto enthusiast i love axey infinity', 'start': 159.36, 'duration': 3.68}
+{'text': 'and i think that sharing ideas is the', 'start': 161.44, 'duration': 3.12}
+{'text': 'best way to strengthen the community so', 'start': 163.04, 'duration': 3.68}
+{'text': "we've gotten a number of leaks from both", 'start': 164.56, 'duration': 4.72}
+{'text': 'the axiomfinity twitter sky mavis doing', 'start': 166.72, 'duration': 4.64}
+{'text': 'their uh developer updates and even a', 'start': 169.28, 'duration': 4.48}
+{'text': 'couple leaks from jihos and psych out', 'start': 171.36, 'duration': 4.64}
+{'text': "themselves now if we focus on psycho's", 'start': 173.76, 'duration': 4.08}
+{'text': 'tweet he says acquiring users for the', 'start': 176.0, 'duration': 3.92}
+{'text': 'current game is a waste since axio', 'start': 177.84, 'duration': 4.399}
+{'text': "origin is so close yeah that's a crazy", 'start': 179.92, 'duration': 4.0}
+{'text': 'tweet i mean that that shook a lot of', 'start': 182.239, 'duration': 4.08}
+{'text': "people it's hard to know exactly what to", 'start': 183.92, 'duration': 5.44}
+{'text': 'make of this i will say my own personal', 'start': 186.319, 'duration': 5.761}
+{'text': 'take is that axes are going to retain', 'start': 189.36, 'duration': 4.64}
+{'text': 'value you have to think about all of the', 'start': 192.08, 'duration': 4.079}
+{'text': 'mega thousands of scholars that means', 'start': 194.0, 'duration': 5.44}
+{'text': 'that they have tens of thousands of axes', 'start': 196.159, 'duration': 5.761}
+{'text': "so the team isn't going to quote unquote", 'start': 199.44, 'duration': 5.2}
+{'text': 'like rug on them and make their axes', 'start': 201.92, 'duration': 5.28}
+{'text': "useless there's going to be a way to", 'start': 204.64, 'duration': 6.56}
+{'text': 'transfer the value of v1 or v2 axes into', 'start': 207.2, 'duration': 6.24}
+{'text': "origin axes how that happens i'm not", 'start': 211.2, 'duration': 3.679}
+{'text': 'exactly sure', 'start': 213.44, 'duration': 3.2}
+{'text': 'but i think people get scared when they', 'start': 214.879, 'duration': 3.601}
+{'text': 'see this and think like oh are the axes', 'start': 216.64, 'duration': 3.599}
+{'text': 'i have gonna be completely useless well', 'start': 218.48, 'duration': 3.52}
+{'text': 'for one i think that the two games will', 'start': 220.239, 'duration': 3.601}
+{'text': 'probably run side by side for some time', 'start': 222.0, 'duration': 4.64}
+{'text': 'by which i mean v2 and v3 i think that', 'start': 223.84, 'duration': 4.399}
+{'text': 'they will co-exist what are your', 'start': 226.64, 'duration': 3.679}
+{'text': 'thoughts ryan no i definitely think that', 'start': 228.239, 'duration': 4.241}
+{'text': 'axes are going to retain value in one', 'start': 230.319, 'duration': 3.681}
+{'text': "way or another whether or not they're", 'start': 232.48, 'duration': 4.0}
+{'text': 'still going to be viable in battles v2', 'start': 234.0, 'duration': 4.159}
+{'text': 'or battles v3', 'start': 236.48, 'duration': 3.759}
+{'text': 'is yet to be seen but regardless of', 'start': 238.159, 'duration': 5.36}
+{'text': 'their use in battles v2 or v3 uh they', 'start': 240.239, 'duration': 5.681}
+{'text': 'will also have use cases in land coming', 'start': 243.519, 'duration': 5.121}
+{'text': 'down in the end of 2022 as well and then', 'start': 245.92, 'duration': 4.72}
+{'text': 'finally with the releasing mechanisms', 'start': 248.64, 'duration': 3.599}
+{'text': "which i'll talk about in a little bit", 'start': 250.64, 'duration': 3.92}
+{'text': 'later they have clearly stated that it', 'start': 252.239, 'duration': 5.761}
+{'text': 'is a form of returning value to axes', 'start': 254.56, 'duration': 5.199}
+{'text': 'that have or no longer have a place in', 'start': 258.0, 'duration': 4.16}
+{'text': 'the ecosystem so i want to focus on on', 'start': 259.759, 'duration': 4.481}
+{'text': "evolutions right so evolutions that's", 'start': 262.16, 'duration': 3.36}
+{'text': 'one of the most exciting things that', 'start': 264.24, 'duration': 3.04}
+{'text': "we're going to see coming out of battles", 'start': 265.52, 'duration': 4.8}
+{'text': 'v3 right now axes only have four cards', 'start': 267.28, 'duration': 4.88}
+{'text': "to choose from and v3 we're gonna", 'start': 270.32, 'duration': 4.0}
+{'text': 'introduce eyes and ears and then each of', 'start': 272.16, 'duration': 3.84}
+{'text': 'those body parts will be able to branch', 'start': 274.32, 'duration': 4.24}
+{'text': 'off into two other potential evolutions', 'start': 276.0, 'duration': 4.479}
+{'text': 'uh so if you take a look at my trusty', 'start': 278.56, 'duration': 3.359}
+{'text': "chalkboard we're gonna go through some", 'start': 280.479, 'duration': 2.881}
+{'text': "quick math if you're fine with that it's", 'start': 281.919, 'duration': 2.641}
+{'text': "real simple i think you'll be able to", 'start': 283.36, 'duration': 3.119}
+{'text': 'follow along so i did this research on', 'start': 284.56, 'duration': 3.6}
+{'text': 'january 5th and according to', 'start': 286.479, 'duration': 3.601}
+{'text': 'activeplayer.io', 'start': 288.16, 'duration': 3.08}
+{'text': 'we have', 'start': 290.08, 'duration': 4.8}
+{'text': '2.3 million daily active players from', 'start': 291.24, 'duration': 5.48}
+{'text': 'the past 30 days alright now we know', 'start': 294.88, 'duration': 3.599}
+{'text': 'that each player has to have at least', 'start': 296.72, 'duration': 3.84}
+{'text': 'three axes in order to play the game so', 'start': 298.479, 'duration': 4.641}
+{'text': 'we take 2.3 million and we times it by', 'start': 300.56, 'duration': 5.28}
+{'text': 'three and now we know that we have 6.9', 'start': 303.12, 'duration': 5.12}
+{'text': 'million axes currently being used on a', 'start': 305.84, 'duration': 5.04}
+{'text': 'daily basis all right now each axi has', 'start': 308.24, 'duration': 4.48}
+{'text': 'six body parts that could potentially', 'start': 310.88, 'duration': 5.2}
+{'text': 'evolve right so we take 6.9 we times it', 'start': 312.72, 'duration': 5.36}
+{'text': 'by six body parts that could potentially', 'start': 316.08, 'duration': 4.8}
+{'text': 'evolve and we get 41.4', 'start': 318.08, 'duration': 4.88}
+{'text': "million evolutions that's the baseline", 'start': 320.88, 'duration': 3.36}
+{'text': "of what we're looking at moving into", 'start': 322.96, 'duration': 3.12}
+{'text': "battles of e3 um now let's do a little", 'start': 324.24, 'duration': 3.679}
+{'text': "thought experiment now let's say that", 'start': 326.08, 'duration': 4.559}
+{'text': 'they choose an arbitrary price of a', 'start': 327.919, 'duration': 5.041}
+{'text': 'thousand slp per evolution', 'start': 330.639, 'duration': 4.641}
+{'text': 'uh now that number could definitely be', 'start': 332.96, 'duration': 4.48}
+{'text': "skewed uh i think it's realistic because", 'start': 335.28, 'duration': 3.12}
+{'text': "it's not", 'start': 337.44, 'duration': 2.72}
+{'text': "super easy to get but it's definitely", 'start': 338.4, 'duration': 4.16}
+{'text': 'attainable by anyone who has the drive', 'start': 340.16, 'duration': 4.08}
+{'text': 'to get the slp to evolve their body', 'start': 342.56, 'duration': 3.12}
+{'text': "parts i don't think we're going to see", 'start': 344.24, 'duration': 3.519}
+{'text': 'all of our body parts evolve at once i', 'start': 345.68, 'duration': 3.44}
+{'text': "think we're definitely going to see some", 'start': 347.759, 'duration': 3.521}
+{'text': 'of them evolve as we start to see some', 'start': 349.12, 'duration': 3.68}
+{'text': 'of the cards that are available i think', 'start': 351.28, 'duration': 3.28}
+{'text': "it's going to be clear that some are", 'start': 352.8, 'duration': 3.44}
+{'text': 'going to be better than others um of', 'start': 354.56, 'duration': 4.24}
+{'text': "course not all at once um but let's take", 'start': 356.24, 'duration': 5.04}
+{'text': "an estimate of just half let's say let's", 'start': 358.8, 'duration': 4.8}
+{'text': 'say all the players evolve half of their', 'start': 361.28, 'duration': 4.88}
+{'text': 'potential evolutions so not the 41.4', 'start': 363.6, 'duration': 4.08}
+{'text': "million let's look at just like around", 'start': 366.16, 'duration': 3.2}
+{'text': '20 million at the price point of a', 'start': 367.68, 'duration': 4.0}
+{'text': 'thousand slp per evolution we are', 'start': 369.36, 'duration': 5.76}
+{'text': 'looking at 20 billion slp being spent on', 'start': 371.68, 'duration': 5.76}
+{'text': 'evolution alone of sheesh', 'start': 375.12, 'duration': 4.0}
+{'text': 'yeah yeah yeah', 'start': 377.44, 'duration': 3.44}
+{'text': 'yeah that those are big numbers and of', 'start': 379.12, 'duration': 4.079}
+{'text': 'course uh the numbers could be skewed a', 'start': 380.88, 'duration': 4.24}
+{'text': 'little bit but this is the kind of grand', 'start': 383.199, 'duration': 3.361}
+{'text': 'scale that you need to look at in order', 'start': 385.12, 'duration': 3.04}
+{'text': 'to get the bigger picture and you know', 'start': 386.56, 'duration': 3.759}
+{'text': 'in hindsight looking at it this way it', 'start': 388.16, 'duration': 4.319}
+{'text': 'seems like such a hill to climb up from', 'start': 390.319, 'duration': 4.241}
+{'text': 'right now with slp at its current price', 'start': 392.479, 'duration': 4.0}
+{'text': 'but this is the sort of thing that i do', 'start': 394.56, 'duration': 3.6}
+{'text': 'believe the axi team is thinking about', 'start': 396.479, 'duration': 3.44}
+{'text': 'is how to do this in like large', 'start': 398.16, 'duration': 3.599}
+{'text': 'effective ways that are part of their', 'start': 399.919, 'duration': 4.0}
+{'text': 'plan anyway as jihos mentioned', 'start': 401.759, 'duration': 4.081}
+{'text': 'evolutions has been in the discussion', 'start': 403.919, 'duration': 3.921}
+{'text': 'years ago but this has been a process', 'start': 405.84, 'duration': 3.52}
+{'text': "you can't just have everything roll out", 'start': 407.84, 'duration': 4.0}
+{'text': "at once and now we're gonna see things", 'start': 409.36, 'duration': 5.2}
+{'text': 'like this new ways to implement that fit', 'start': 411.84, 'duration': 6.16}
+{'text': 'the vision of axi infinity and lunacia', 'start': 414.56, 'duration': 5.039}
+{'text': "this is exciting we'll see what the", 'start': 418.0, 'duration': 3.68}
+{'text': 'numbers look like exactly you know this', 'start': 419.599, 'duration': 4.16}
+{'text': 'is all speculation of course um but', 'start': 421.68, 'duration': 4.0}
+{'text': "that's you know that's why we're here to", 'start': 423.759, 'duration': 3.761}
+{'text': 'have some fun and think about the future', 'start': 425.68, 'duration': 3.76}
+{'text': 'yeah definitely um and so of course what', 'start': 427.52, 'duration': 3.28}
+{'text': 'you said is true this is all just', 'start': 429.44, 'duration': 3.92}
+{'text': 'speculation but this is also just the', 'start': 430.8, 'duration': 4.72}
+{'text': 'calculations for direct burning the', 'start': 433.36, 'duration': 4.0}
+{'text': 'introduction of evolution is actually', 'start': 435.52, 'duration': 3.679}
+{'text': 'going to add some indirect burning as', 'start': 437.36, 'duration': 3.52}
+{'text': 'well so we know that there are six body', 'start': 439.199, 'duration': 3.681}
+{'text': 'parts right each body part is going to', 'start': 440.88, 'duration': 4.64}
+{'text': 'be able to evolve branch off into two', 'start': 442.88, 'duration': 4.08}
+{'text': 'other potential body parts you know what', 'start': 445.52, 'duration': 3.679}
+{'text': 'that means is you know take a take a', 'start': 446.96, 'duration': 4.239}
+{'text': 'single axi that we all know like uh like', 'start': 449.199, 'duration': 5.201}
+{'text': 'a pure aqua with koi and risky fish you', 'start': 451.199, 'duration': 4.321}
+{'text': 'will need', 'start': 454.4, 'duration': 4.32}
+{'text': 'hundreds of that one particular axi', 'start': 455.52, 'duration': 5.679}
+{'text': 'hundreds of identical copies in order to', 'start': 458.72, 'duration': 4.8}
+{'text': 'get every single combination of', 'start': 461.199, 'duration': 4.481}
+{'text': 'potential cards with evolutions', 'start': 463.52, 'duration': 4.56}
+{'text': "introduced i see what you're saying yes", 'start': 465.68, 'duration': 4.799}
+{'text': 'to to hit all those different markers i', 'start': 468.08, 'duration': 4.64}
+{'text': 'i think that there is uh', 'start': 470.479, 'duration': 4.641}
+{'text': 'possibly going to be a reroll mechanism', 'start': 472.72, 'duration': 4.08}
+{'text': "i think i've heard that like floating", 'start': 475.12, 'duration': 4.0}
+{'text': "around i don't know but it might be that", 'start': 476.8, 'duration': 3.839}
+{'text': "if you have axes that you don't have any", 'start': 479.12, 'duration': 3.919}
+{'text': 'use for there might be a way to just', 'start': 480.639, 'duration': 5.361}
+{'text': 'spend a little slp re-roll it and maybe', 'start': 483.039, 'duration': 4.88}
+{'text': 'get like a new set of its native class', 'start': 486.0, 'duration': 2.96}
+{'text': 'moveset', 'start': 487.919, 'duration': 2.56}
+{'text': "it's honestly", 'start': 488.96, 'duration': 2.88}
+{'text': 'going to be very interesting to see how', 'start': 490.479, 'duration': 3.201}
+{'text': "this plays out but you're right if if", 'start': 491.84, 'duration': 3.919}
+{'text': "there isn't a re-roll then we're gonna", 'start': 493.68, 'duration': 3.44}
+{'text': 'need a lot', 'start': 495.759, 'duration': 4.241}
+{'text': 'of axes to evolve the game is what', 'start': 497.12, 'duration': 5.04}
+{'text': "you're saying exactly exactly now i", 'start': 500.0, 'duration': 4.16}
+{'text': "haven't heard about the potential", 'start': 502.16, 'duration': 4.319}
+{'text': "re-rolling i think it's a great idea", 'start': 504.16, 'duration': 4.159}
+{'text': 'um i would love to hear more about that', 'start': 506.479, 'duration': 3.521}
+{'text': "if you can find the resources i'll try", 'start': 508.319, 'duration': 3.121}
+{'text': 'to find something for you yeah', 'start': 510.0, 'duration': 3.2}
+{'text': "definitely that'd be awesome so assuming", 'start': 511.44, 'duration': 3.44}
+{'text': "that re-rolling isn't a part of the", 'start': 513.2, 'duration': 4.0}
+{'text': 'equation we are going to need a ton of', 'start': 514.88, 'duration': 4.719}
+{'text': "axes uh identical axes so we're gonna", 'start': 517.2, 'duration': 4.16}
+{'text': 'see a lot more breeding coming out here', 'start': 519.599, 'duration': 3.44}
+{'text': "as well we're gonna need a lot more", 'start': 521.36, 'duration': 3.919}
+{'text': 'breeders creating axes to fulfill the', 'start': 523.039, 'duration': 3.841}
+{'text': 'needs of the player base once evolution', 'start': 525.279, 'duration': 3.68}
+{'text': 'comes in that covers most of what i have', 'start': 526.88, 'duration': 3.68}
+{'text': 'for evolutions i want to move into', 'start': 528.959, 'duration': 3.841}
+{'text': 'crafting and power-ups we received this', 'start': 530.56, 'duration': 4.719}
+{'text': 'leak um i think it was in december of', 'start': 532.8, 'duration': 4.08}
+{'text': 'some of the potential power-ups that we', 'start': 535.279, 'duration': 4.401}
+{'text': 'might see in battles v3 now these are', 'start': 536.88, 'duration': 4.72}
+{'text': 'definitely not final versions of what', 'start': 539.68, 'duration': 3.68}
+{'text': 'these power-ups might look like but', 'start': 541.6, 'duration': 3.84}
+{'text': "they're cool little uh concept arts here", 'start': 543.36, 'duration': 4.159}
+{'text': 'we see that sky mavis has directly told', 'start': 545.44, 'duration': 4.64}
+{'text': 'us that body part power-ups may require', 'start': 547.519, 'duration': 4.32}
+{'text': 'slp to craft so we know that this is a', 'start': 550.08, 'duration': 4.08}
+{'text': 'big potential burn for slp going into', 'start': 551.839, 'duration': 4.321}
+{'text': 'the future well what is a power what is', 'start': 554.16, 'duration': 3.6}
+{'text': 'what are these power-ups supposed to', 'start': 556.16, 'duration': 3.359}
+{'text': 'entail what does that even mean compared', 'start': 557.76, 'duration': 4.24}
+{'text': "to an evolution so they haven't given us", 'start': 559.519, 'duration': 4.241}
+{'text': 'a lot of detail on what these power-ups', 'start': 562.0, 'duration': 3.2}
+{'text': "could do we know that there's going to", 'start': 563.76, 'duration': 4.72}
+{'text': 'be a at least one power-up per body part', 'start': 565.2, 'duration': 4.96}
+{'text': 'because they specifically say body part', 'start': 568.48, 'duration': 3.84}
+{'text': "power-ups what's good is seeing more", 'start': 570.16, 'duration': 4.64}
+{'text': "ways for fp to get burned and that's", 'start': 572.32, 'duration': 4.16}
+{'text': "what we're that's what we're", 'start': 574.8, 'duration': 3.92}
+{'text': 'getting hints of right yeah power ups', 'start': 576.48, 'duration': 5.039}
+{'text': "evolutions these are like big i don't", 'start': 578.72, 'duration': 4.4}
+{'text': 'want to call them overhauls in the', 'start': 581.519, 'duration': 4.801}
+{'text': 'ecosystem but just big uh additions that', 'start': 583.12, 'duration': 5.36}
+{'text': 'are going to help things stay balanced', 'start': 586.32, 'duration': 4.88}
+{'text': 'in my opinion oh yeah having the ability', 'start': 588.48, 'duration': 4.799}
+{'text': 'to change a power up instead of having', 'start': 591.2, 'duration': 3.84}
+{'text': 'to change the axi when we move into a', 'start': 593.279, 'duration': 4.24}
+{'text': 'new meta um it can be really beneficial', 'start': 595.04, 'duration': 4.16}
+{'text': "for the player base it's going to add so", 'start': 597.519, 'duration': 2.88}
+{'text': 'many different', 'start': 599.2, 'duration': 2.96}
+{'text': 'variations of what we already know to', 'start': 600.399, 'duration': 3.601}
+{'text': 'the game and think about how more', 'start': 602.16, 'duration': 3.359}
+{'text': 'complex this meta is going to be if', 'start': 604.0, 'duration': 4.16}
+{'text': "we're talking six body parts power-ups", 'start': 605.519, 'duration': 4.241}
+{'text': "crafting it's going to be way more", 'start': 608.16, 'duration': 4.0}
+{'text': 'advanced i hope way more advanced and', 'start': 609.76, 'duration': 4.639}
+{'text': 'intriguing than what we have right now', 'start': 612.16, 'duration': 4.64}
+{'text': "with v2 even though we've all loved the", 'start': 614.399, 'duration': 4.56}
+{'text': 'game we have a nice esports scene i', 'start': 616.8, 'duration': 3.76}
+{'text': 'think origin is just going to take', 'start': 618.959, 'duration': 3.761}
+{'text': "everything to the next level let's uh", 'start': 620.56, 'duration': 4.64}
+{'text': "what else we got so there's this leak", 'start': 622.72, 'duration': 4.559}
+{'text': 'that was given to us a couple months ago', 'start': 625.2, 'duration': 3.68}
+{'text': 'have you seen this before', 'start': 627.279, 'duration': 3.521}
+{'text': "i've seen it once or twice all right all", 'start': 628.88, 'duration': 4.079}
+{'text': "right wonderful all right so there's not", 'start': 630.8, 'duration': 3.92}
+{'text': 'a ton of information we can go off we', 'start': 632.959, 'duration': 3.44}
+{'text': 'have we have some cards at the bottom', 'start': 634.72, 'duration': 3.04}
+{'text': "that we could speculate on but that's", 'start': 636.399, 'duration': 2.721}
+{'text': 'not really important for this video what', 'start': 637.76, 'duration': 3.44}
+{'text': 'i want to focus on is on the left side', 'start': 639.12, 'duration': 4.24}
+{'text': 'of this axis over here', 'start': 641.2, 'duration': 4.4}
+{'text': 'oh boy okay', 'start': 643.36, 'duration': 5.039}
+{'text': 'this to me looks like power-up slots', 'start': 645.6, 'duration': 4.4}
+{'text': "there's nothing else that they've ever", 'start': 648.399, 'duration': 3.281}
+{'text': "that they've ever mentioned that could", 'start': 650.0, 'duration': 3.44}
+{'text': 'fulfill this role in in the leak that', 'start': 651.68, 'duration': 2.88}
+{'text': "we're seeing", 'start': 653.44, 'duration': 2.72}
+{'text': "yeah but if you pay attention there's", 'start': 654.56, 'duration': 4.0}
+{'text': 'actually seven power-up slots not six', 'start': 656.16, 'duration': 4.88}
+{'text': "okay so i'm thinking i'm thinking we see", 'start': 658.56, 'duration': 4.32}
+{'text': 'a power up for each of the six body', 'start': 661.04, 'duration': 4.4}
+{'text': 'parts and then a seventh uh seventh', 'start': 662.88, 'duration': 5.199}
+{'text': 'power up for either the body type or', 'start': 665.44, 'duration': 5.12}
+{'text': 'class okay yep that makes sense like', 'start': 668.079, 'duration': 4.161}
+{'text': "almost maybe there's like a finisher", 'start': 670.56, 'duration': 4.24}
+{'text': 'power up type thing for whatever class', 'start': 672.24, 'duration': 3.52}
+{'text': 'it is', 'start': 674.8, 'duration': 3.12}
+{'text': 'that would be pretty sick like you know', 'start': 675.76, 'duration': 4.4}
+{'text': 'like a final smash or something yeah', 'start': 677.92, 'duration': 4.479}
+{'text': 'yeah it could be could be are those on', 'start': 680.16, 'duration': 4.48}
+{'text': 'the right like do those look like uh', 'start': 682.399, 'duration': 4.961}
+{'text': 'things that can evolve i i kind of it', 'start': 684.64, 'duration': 4.48}
+{'text': 'kind of looks like bars on the right', 'start': 687.36, 'duration': 4.88}
+{'text': 'that can move up right exact space yeah', 'start': 689.12, 'duration': 4.8}
+{'text': 'if you want to highlight that can you i', 'start': 692.24, 'duration': 3.52}
+{'text': "don't know if people can see it but", 'start': 693.92, 'duration': 4.08}
+{'text': "there's like slots there for that little", 'start': 695.76, 'duration': 5.36}
+{'text': 'that little dot to move um exactly so', 'start': 698.0, 'duration': 5.92}
+{'text': 'these these uh spaces on the right uh', 'start': 701.12, 'duration': 4.959}
+{'text': 'these are correlating to its body parts', 'start': 703.92, 'duration': 4.4}
+{'text': 'so we can see sparky uh the card for', 'start': 706.079, 'duration': 4.88}
+{'text': 'that body part is here uh foxy the card', 'start': 708.32, 'duration': 4.959}
+{'text': 'for that body part is here foxy again', 'start': 710.959, 'duration': 4.88}
+{'text': 'here persimmon and you can actually see', 'start': 713.279, 'duration': 4.481}
+{'text': 'this if you go to the marketplace as', 'start': 715.839, 'duration': 3.44}
+{'text': 'well if you go to the marketplace and', 'start': 717.76, 'duration': 3.84}
+{'text': "look up any axi it'll say next to their", 'start': 719.279, 'duration': 4.481}
+{'text': 'body parts what level they are we can', 'start': 721.6, 'duration': 4.0}
+{'text': 'look at our body parts and we can see', 'start': 723.76, 'duration': 3.28}
+{'text': 'that they actually have already', 'start': 725.6, 'duration': 3.44}
+{'text': 'implemented these leveling systems into', 'start': 727.04, 'duration': 4.479}
+{'text': 'the body parts was that always there am', 'start': 729.04, 'duration': 5.12}
+{'text': 'i a complete like goofball for never', 'start': 731.519, 'duration': 4.401}
+{'text': 'like realized i guess why would i ever', 'start': 734.16, 'duration': 3.2}
+{'text': "notice or care about it it's not really", 'start': 735.92, 'duration': 2.719}
+{'text': 'relevant in the current state of the', 'start': 737.36, 'duration': 3.36}
+{'text': 'game but exactly is that that was always', 'start': 738.639, 'duration': 4.721}
+{'text': "there i assume you know i don't know if", 'start': 740.72, 'duration': 5.119}
+{'text': "it's always been there or not it only it", 'start': 743.36, 'duration': 4.64}
+{'text': 'only could go back into some old youtube', 'start': 745.839, 'duration': 3.601}
+{'text': 'videos and see', 'start': 748.0, 'duration': 3.6}
+{'text': 'definitely yeah it only came into my to', 'start': 749.44, 'duration': 5.199}
+{'text': 'my awareness once they updated the uh', 'start': 751.6, 'duration': 4.96}
+{'text': "the marketplace that's that's what i", 'start': 754.639, 'duration': 4.561}
+{'text': 'noticed this is gonna be insane are you', 'start': 756.56, 'duration': 4.399}
+{'text': 'seeing this like did you see that', 'start': 759.2, 'duration': 4.639}
+{'text': "artwork for v3 and the fact that they're", 'start': 760.959, 'duration': 5.281}
+{'text': 'lining this up and getting ready for an', 'start': 763.839, 'duration': 4.8}
+{'text': "entire new system it's going to be", 'start': 766.24, 'duration': 5.039}
+{'text': 'amazing look at what they did with the', 'start': 768.639, 'duration': 4.721}
+{'text': 'the like bare bones version of this game', 'start': 771.279, 'duration': 3.921}
+{'text': "we're all hooked on it we all love it", 'start': 773.36, 'duration': 3.919}
+{'text': 'wait until they actually try to release', 'start': 775.2, 'duration': 5.28}
+{'text': "a final product it's going to be sick", 'start': 777.279, 'duration': 4.161}
+{'text': "it's going to be in my opinion", 'start': 780.48, 'duration': 2.88}
+{'text': "phenomenal no you're absolutely right", 'start': 781.44, 'duration': 4.24}
+{'text': "it's it's going to be huge yeah", 'start': 783.36, 'duration': 4.32}
+{'text': 'so back to your question yeah i i', 'start': 785.68, 'duration': 4.08}
+{'text': 'believe that these little notches next', 'start': 787.68, 'duration': 3.68}
+{'text': 'to the body parts on the right here', 'start': 789.76, 'duration': 3.04}
+{'text': "you're actually going to be able to", 'start': 791.36, 'duration': 4.64}
+{'text': 'level up your body parts so that they do', 'start': 792.8, 'duration': 6.24}
+{'text': 'more damage or are more successful bro i', 'start': 796.0, 'duration': 5.76}
+{'text': 'am trying not to lose my mind right now', 'start': 799.04, 'duration': 4.88}
+{'text': "don't don't don't don't freak out too", 'start': 801.76, 'duration': 3.44}
+{'text': "much because there's a strong", 'start': 803.92, 'duration': 4.0}
+{'text': 'possibility that the power ups and the', 'start': 805.2, 'duration': 4.8}
+{'text': "evolution i'm sorry that the power ups", 'start': 807.92, 'duration': 5.44}
+{'text': 'and the um upgrading level ups for the', 'start': 810.0, 'duration': 5.12}
+{'text': 'body parts is', 'start': 813.36, 'duration': 4.8}
+{'text': "might just be for the pve they've", 'start': 815.12, 'duration': 4.88}
+{'text': "mentioned storylines they're really", 'start': 818.16, 'duration': 4.08}
+{'text': 'trying to focus on making that the game', 'start': 820.0, 'duration': 4.399}
+{'text': 'fun to play with without being so', 'start': 822.24, 'duration': 3.76}
+{'text': "competitive yeah that's a great point it", 'start': 824.399, 'duration': 3.841}
+{'text': "probably won't be for pvp you're right", 'start': 826.0, 'duration': 3.92}
+{'text': "because it's good maybe not there may be", 'start': 828.24, 'duration': 3.599}
+{'text': "some i don't know we'll have to see but", 'start': 829.92, 'duration': 3.52}
+{'text': 'it makes sense that this makes it way', 'start': 831.839, 'duration': 4.721}
+{'text': 'more intriguing for climbing in pve and', 'start': 833.44, 'duration': 5.36}
+{'text': 'having fun and making your axis really', 'start': 836.56, 'duration': 4.079}
+{'text': 'unique for land as well like getting to', 'start': 838.8, 'duration': 3.76}
+{'text': 'see them evolve and look different and', 'start': 840.639, 'duration': 4.081}
+{'text': "look cool and then for pvp there's gonna", 'start': 842.56, 'duration': 4.0}
+{'text': 'need to be some equal playing field for', 'start': 844.72, 'duration': 3.119}
+{'text': "things to be balanced we're gonna have", 'start': 846.56, 'duration': 4.0}
+{'text': 'to see how that goes um but this is an', 'start': 847.839, 'duration': 5.44}
+{'text': 'amazing piece of information yeah no so', 'start': 850.56, 'duration': 4.399}
+{'text': 'if i mean if you ask me i think the', 'start': 853.279, 'duration': 3.601}
+{'text': 'leveling up for body parts is probably', 'start': 854.959, 'duration': 3.841}
+{'text': 'going to be strictly pve but the', 'start': 856.88, 'duration': 3.6}
+{'text': 'introduction of power ups has a strong', 'start': 858.8, 'duration': 3.839}
+{'text': 'potential to still be in competitive', 'start': 860.48, 'duration': 4.4}
+{'text': "play uh it's the same thing as switching", 'start': 862.639, 'duration': 4.481}
+{'text': 'out cards uh from your deck if you were', 'start': 864.88, 'duration': 4.399}
+{'text': 'to play yu-gi-oh magic or pokemon you', 'start': 867.12, 'duration': 4.159}
+{'text': 'know just being able to slightly', 'start': 869.279, 'duration': 4.961}
+{'text': 'customize these axes and using power-ups', 'start': 871.279, 'duration': 4.481}
+{'text': 'that are available to everybody through', 'start': 874.24, 'duration': 4.0}
+{'text': "the marketplace i don't think it's it's", 'start': 875.76, 'duration': 4.8}
+{'text': "um it's unreasonable to", 'start': 878.24, 'duration': 3.76}
+{'text': 'assume that it could be used for', 'start': 880.56, 'duration': 3.279}
+{'text': 'competitive play so taking this all into', 'start': 882.0, 'duration': 3.92}
+{'text': "account let's do some calculations like", 'start': 883.839, 'duration': 3.201}
+{'text': 'we did before', 'start': 885.92, 'duration': 3.039}
+{'text': 'okay we know that we have 2.3 million', 'start': 887.04, 'duration': 5.12}
+{'text': 'players 6.9 million axes currently being', 'start': 888.959, 'duration': 5.281}
+{'text': 'used all right now we times that number', 'start': 892.16, 'duration': 3.84}
+{'text': 'by seven because we know that there are', 'start': 894.24, 'duration': 4.08}
+{'text': 'seven potential up slots so that means', 'start': 896.0, 'duration': 3.959}
+{'text': "there's going to be", 'start': 898.32, 'duration': 5.6}
+{'text': '48.3 million power-up slots now with the', 'start': 899.959, 'duration': 6.281}
+{'text': "slp price here again we're going to do a", 'start': 903.92, 'duration': 4.96}
+{'text': 'little bit of a speculation the slp', 'start': 906.24, 'duration': 4.88}
+{'text': 'price i want to put it at around 200 yes', 'start': 908.88, 'duration': 4.56}
+{'text': "that's a fairly conservative estimate", 'start': 911.12, 'duration': 4.959}
+{'text': 'but we know that sl slp is not going to', 'start': 913.44, 'duration': 4.56}
+{'text': 'be the only price', 'start': 916.079, 'duration': 4.161}
+{'text': 'spent for power-ups right you need the', 'start': 918.0, 'duration': 3.92}
+{'text': "crafting materials as well and i'm", 'start': 920.24, 'duration': 2.959}
+{'text': 'expecting those to have a high price', 'start': 921.92, 'duration': 3.2}
+{'text': "point so i don't think that the", 'start': 923.199, 'duration': 4.161}
+{'text': 'slp is you know maybe not just here i', 'start': 925.12, 'duration': 4.159}
+{'text': "got you i got you yeah so that's why it", 'start': 927.36, 'duration': 3.2}
+{'text': 'might be lower than what we were', 'start': 929.279, 'duration': 3.761}
+{'text': 'speculating before with the evolutions', 'start': 930.56, 'duration': 4.719}
+{'text': 'exactly exactly because we know that', 'start': 933.04, 'duration': 3.76}
+{'text': "we're gonna need crafting materials to", 'start': 935.279, 'duration': 3.92}
+{'text': 'get this if we do the math um at 48', 'start': 936.8, 'duration': 4.64}
+{'text': 'million times 200', 'start': 939.199, 'duration': 5.2}
+{'text': 'is almost 10 billion slps spent to fully', 'start': 941.44, 'duration': 4.72}
+{'text': 'power up all the axes currently being', 'start': 944.399, 'duration': 4.081}
+{'text': 'used and that', 'start': 946.16, 'duration': 4.0}
+{'text': "again that i think that's a conservative", 'start': 948.48, 'duration': 3.359}
+{'text': 'estimate i think that we can see much', 'start': 950.16, 'duration': 4.08}
+{'text': 'higher numbers going into this i agree i', 'start': 951.839, 'duration': 4.161}
+{'text': 'think we could see way higher as well', 'start': 954.24, 'duration': 3.76}
+{'text': 'yeah this is crazy i mean and and even', 'start': 956.0, 'duration': 4.0}
+{'text': 'if even if like you said half of the', 'start': 958.0, 'duration': 4.0}
+{'text': 'players do the power ups but the price', 'start': 960.0, 'duration': 4.24}
+{'text': "is twice as expensive and it's 400 slp", 'start': 962.0, 'duration': 4.72}
+{'text': 'we still arrive around 10 billion or it', 'start': 964.24, 'duration': 5.039}
+{'text': 'could be way higher than 200 slp because', 'start': 966.72, 'duration': 4.88}
+{'text': 'think about it as well slp is really', 'start': 969.279, 'duration': 4.24}
+{'text': "cheap right now so it's just going to be", 'start': 971.6, 'duration': 3.599}
+{'text': 'depending on the marker that they want', 'start': 973.519, 'duration': 3.201}
+{'text': "to use it's like in the past they've", 'start': 975.199, 'duration': 3.601}
+{'text': 'adjusted the slp price for breeding', 'start': 976.72, 'duration': 4.479}
+{'text': 'accordingly to you know what it needed', 'start': 978.8, 'duration': 5.2}
+{'text': "to be so i wouldn't be surprised if this", 'start': 981.199, 'duration': 4.88}
+{'text': 'turns out being a much higher number as', 'start': 984.0, 'duration': 4.32}
+{'text': "well we'll just have to see definitely", 'start': 986.079, 'duration': 4.32}
+{'text': "and that's a great point um you know", 'start': 988.32, 'duration': 4.0}
+{'text': 'they have mentioned in the past that', 'start': 990.399, 'duration': 4.321}
+{'text': 'their breeding costs are they plan to', 'start': 992.32, 'duration': 4.24}
+{'text': 'have that automated they plan to have', 'start': 994.72, 'duration': 3.6}
+{'text': 'algorithms tracing the the current', 'start': 996.56, 'duration': 3.519}
+{'text': 'amount of excess the current amount of', 'start': 998.32, 'duration': 4.48}
+{'text': 'slp and that that price point for how', 'start': 1000.079, 'duration': 4.0}
+{'text': 'much is it going to cost to breed my', 'start': 1002.8, 'duration': 2.959}
+{'text': 'axes is going to constantly be changing', 'start': 1004.079, 'duration': 3.68}
+{'text': "on a day-to-day basis and it's very", 'start': 1005.759, 'duration': 3.76}
+{'text': 'possible that they do the same thing for', 'start': 1007.759, 'duration': 4.08}
+{'text': 'crafting costs and evolution costs as', 'start': 1009.519, 'duration': 4.401}
+{'text': 'well this is more speculation for a', 'start': 1011.839, 'duration': 4.721}
+{'text': 'direct burning mechanism from crafting', 'start': 1013.92, 'duration': 4.56}
+{'text': 'but this is also going to have huge', 'start': 1016.56, 'duration': 4.399}
+{'text': 'implications in indirect burning as well', 'start': 1018.48, 'duration': 4.96}
+{'text': 'so we know that the only way to get', 'start': 1020.959, 'duration': 5.201}
+{'text': 'materials for crafting at this point is', 'start': 1023.44, 'duration': 4.16}
+{'text': 'going to be through the releasing', 'start': 1026.16, 'duration': 3.44}
+{'text': 'mechanism for axes right they call it', 'start': 1027.6, 'duration': 4.88}
+{'text': 'the axi sink okay what does that mean', 'start': 1029.6, 'duration': 5.439}
+{'text': 'so the axis sink is a way is a burning', 'start': 1032.48, 'duration': 5.599}
+{'text': 'mechanism for axes themselves right now', 'start': 1035.039, 'duration': 5.601}
+{'text': 'the amount of axes that can be that', 'start': 1038.079, 'duration': 4.801}
+{'text': 'exist can potentially be infinite right', 'start': 1040.64, 'duration': 3.919}
+{'text': 'as long as there are players that decide', 'start': 1042.88, 'duration': 3.919}
+{'text': 'to breed axes that number of axes is', 'start': 1044.559, 'duration': 4.081}
+{'text': 'going to continue to rise but with the', 'start': 1046.799, 'duration': 4.0}
+{'text': 'releasing mechanism we are going to be', 'start': 1048.64, 'duration': 4.159}
+{'text': 'able to take those axes those floor', 'start': 1050.799, 'duration': 3.841}
+{'text': "price axes that aren't going to sell for", 'start': 1052.799, 'duration': 3.601}
+{'text': "very much we're not using them anymore", 'start': 1054.64, 'duration': 2.8}
+{'text': "and we're going to be able to release", 'start': 1056.4, 'duration': 2.639}
+{'text': "them back into the wild it's going to", 'start': 1057.44, 'duration': 4.4}
+{'text': 'render that axi useless and in return', 'start': 1059.039, 'duration': 5.281}
+{'text': "we're going to receive materials that we", 'start': 1061.84, 'duration': 4.48}
+{'text': 'use for crafting and upgrading land as', 'start': 1064.32, 'duration': 3.2}
+{'text': 'you can see here', 'start': 1066.32, 'duration': 3.04}
+{'text': "so it's a way to like burn your axi and", 'start': 1067.52, 'duration': 3.12}
+{'text': 'get something in return is that what', 'start': 1069.36, 'duration': 3.679}
+{'text': "you're saying exactly exactly and those", 'start': 1070.64, 'duration': 4.72}
+{'text': 'cracking materials that we get in return', 'start': 1073.039, 'duration': 4.401}
+{'text': "are what we're going to use for those", 'start': 1075.36, 'duration': 4.72}
+{'text': 'power ups because until land gameplay is', 'start': 1077.44, 'duration': 4.16}
+{'text': "released there's no other way to get", 'start': 1080.08, 'duration': 3.76}
+{'text': "crafting materials right so we'll get", 'start': 1081.6, 'duration': 4.24}
+{'text': 'the crafting materials we burn some axes', 'start': 1083.84, 'duration': 4.32}
+{'text': 'how does that affect', 'start': 1085.84, 'duration': 4.0}
+{'text': 'that affects slp', 'start': 1088.16, 'duration': 4.639}
+{'text': 'a lot because as the as the amount of', 'start': 1089.84, 'duration': 4.64}
+{'text': 'axes decrease', 'start': 1092.799, 'duration': 4.961}
+{'text': 'the need for breeding will increase and', 'start': 1094.48, 'duration': 5.12}
+{'text': 'uh yeah as long as uh', 'start': 1097.76, 'duration': 3.84}
+{'text': 'the more breeding there are the more slp', 'start': 1099.6, 'duration': 3.76}
+{'text': "is burned and that's good for the entire", 'start': 1101.6, 'duration': 3.52}
+{'text': 'economy you know sky notice actually', 'start': 1103.36, 'duration': 3.6}
+{'text': 'said it really well here if i can read', 'start': 1105.12, 'duration': 3.6}
+{'text': 'this to you it says um actually', 'start': 1106.96, 'duration': 3.36}
+{'text': 'releasing burning consumption this is', 'start': 1108.72, 'duration': 3.76}
+{'text': 'very significant feature that we have to', 'start': 1110.32, 'duration': 4.56}
+{'text': 'be very careful around since the primary', 'start': 1112.48, 'duration': 5.199}
+{'text': 'utility of slp is to create axes having', 'start': 1114.88, 'duration': 4.96}
+{'text': 'this burning mechanism for axes would', 'start': 1117.679, 'duration': 5.441}
+{'text': 'increase demand for slp and axs right so', 'start': 1119.84, 'duration': 5.76}
+{'text': 'it basically becomes a', 'start': 1123.12, 'duration': 4.4}
+{'text': 'like almost a snowball effect in terms', 'start': 1125.6, 'duration': 3.36}
+{'text': 'of things needing to go in the right', 'start': 1127.52, 'duration': 4.159}
+{'text': 'direction you can burn axes for crafting', 'start': 1128.96, 'duration': 4.24}
+{'text': 'you then need more axes for the', 'start': 1131.679, 'duration': 4.24}
+{'text': 'marketplace people have to use slp', 'start': 1133.2, 'duration': 4.479}
+{'text': 'probably for all that stuff a little bit', 'start': 1135.919, 'duration': 4.561}
+{'text': 'to get your power ups slp for evolutions', 'start': 1137.679, 'duration': 5.041}
+{'text': 'slp to make more axes', 'start': 1140.48, 'duration': 4.64}
+{'text': 'seems like a pretty good situation', 'start': 1142.72, 'duration': 4.16}
+{'text': "exactly and you can see how they've kind", 'start': 1145.12, 'duration': 3.52}
+{'text': "of they've kind of had that thought", 'start': 1146.88, 'duration': 3.039}
+{'text': "process with everything that they're", 'start': 1148.64, 'duration': 3.84}
+{'text': 'introducing no evolutions evolutions is', 'start': 1149.919, 'duration': 5.601}
+{'text': 'going to cause a boom in breeding and', 'start': 1152.48, 'duration': 5.36}
+{'text': "it's the same thing with crafting uh you", 'start': 1155.52, 'duration': 3.84}
+{'text': 'know with crafting the only way to get', 'start': 1157.84, 'duration': 3.839}
+{'text': 'these materials is through burning axes', 'start': 1159.36, 'duration': 4.72}
+{'text': 'with axes being burned the need for more', 'start': 1161.679, 'duration': 4.561}
+{'text': "axes is going to increase so you're", 'start': 1164.08, 'duration': 3.599}
+{'text': 'going to see a ton more breeding', 'start': 1166.24, 'duration': 2.559}
+{'text': "everything everything that they're", 'start': 1167.679, 'duration': 3.841}
+{'text': 'introducing interweaves into itself into', 'start': 1168.799, 'duration': 3.681}
+{'text': 'the in', 'start': 1171.52, 'duration': 2.56}
+{'text': 'and into the other aspects of the game', 'start': 1172.48, 'duration': 3.199}
+{'text': "as well it's really interesting um so", 'start': 1174.08, 'duration': 3.76}
+{'text': 'that brings me to you know my final', 'start': 1175.679, 'duration': 4.161}
+{'text': 'point of what i want to talk about today', 'start': 1177.84, 'duration': 3.76}
+{'text': 'and that is the importance of breeding', 'start': 1179.84, 'duration': 4.24}
+{'text': 'because that is the main mechanism for', 'start': 1181.6, 'duration': 4.64}
+{'text': 'burning slps you know sky mavis has been', 'start': 1184.08, 'duration': 3.36}
+{'text': 'super clear', 'start': 1186.24, 'duration': 4.48}
+{'text': 'that slp is mainly meant for breeding', 'start': 1187.44, 'duration': 4.96}
+{'text': 'might be used for other aspects as well', 'start': 1190.72, 'duration': 4.079}
+{'text': 'but breeding is what its main focus is', 'start': 1192.4, 'duration': 4.56}
+{'text': 'and so a lot of people have complained', 'start': 1194.799, 'duration': 4.321}
+{'text': 'that you know breeding has gone too far', 'start': 1196.96, 'duration': 4.079}
+{'text': "you know we've seen breeding farms that", 'start': 1199.12, 'duration': 4.24}
+{'text': 'just breed the crap out of certain axes', 'start': 1201.039, 'duration': 4.401}
+{'text': 'to the point where you know an axi that', 'start': 1203.36, 'duration': 4.64}
+{'text': 'was worth 800 is suddenly worth less', 'start': 1205.44, 'duration': 4.56}
+{'text': "than 100 just because they've been bred", 'start': 1208.0, 'duration': 4.32}
+{'text': 'so often there are a lot of axes i mean', 'start': 1210.0, 'duration': 4.32}
+{'text': 'even floor price axes that you can buy', 'start': 1212.32, 'duration': 3.68}
+{'text': 'for extremely cheap right now and', 'start': 1214.32, 'duration': 3.68}
+{'text': 'although they might not be very useful', 'start': 1216.0, 'duration': 3.52}
+{'text': 'now uh', 'start': 1218.0, 'duration': 3.76}
+{'text': 'sky mavis in actually infinity has told', 'start': 1219.52, 'duration': 3.92}
+{'text': 'us time and time again that the axi', 'start': 1221.76, 'duration': 4.32}
+{'text': 'utility will change over time especially', 'start': 1223.44, 'duration': 6.32}
+{'text': 'as we had head into battles v3 and land', 'start': 1226.08, 'duration': 5.28}
+{'text': 'gameplay if we look here at this chart', 'start': 1229.76, 'duration': 3.2}
+{'text': 'that i made for all the different body', 'start': 1231.36, 'duration': 3.439}
+{'text': 'parts and all the different categories', 'start': 1232.96, 'duration': 4.719}
+{'text': "that's 192 body parts now i bring this", 'start': 1234.799, 'duration': 5.36}
+{'text': 'up because i want to show you just how', 'start': 1237.679, 'duration': 4.561}
+{'text': "little that we've seen of the total", 'start': 1240.159, 'duration': 4.561}
+{'text': 'combination of axes that are possible', 'start': 1242.24, 'duration': 4.0}
+{'text': 'right so to find the total number of', 'start': 1244.72, 'duration': 3.36}
+{'text': 'combinations possible what we have to do', 'start': 1246.24, 'duration': 4.16}
+{'text': 'is we have to take the i category and', 'start': 1248.08, 'duration': 4.32}
+{'text': 'times it by the ear category then times', 'start': 1250.4, 'duration': 3.36}
+{'text': "it by the back we're going to have to", 'start': 1252.4, 'duration': 3.92}
+{'text': 'multiply each category together to find', 'start': 1253.76, 'duration': 5.2}
+{'text': 'the total number of combinations so if', 'start': 1256.32, 'duration': 5.76}
+{'text': 'we do that math we do 24 times 36 times', 'start': 1258.96, 'duration': 6.719}
+{'text': '36 times 24 times 36 times 36 the total', 'start': 1262.08, 'duration': 5.839}
+{'text': 'number of card possibilities that we can', 'start': 1265.679, 'duration': 3.36}
+{'text': 'have', 'start': 1267.919, 'duration': 4.64}
+{'text': 'is almost a billion almost a billion', 'start': 1269.039, 'duration': 5.441}
+{'text': 'different combinations of body parts', 'start': 1272.559, 'duration': 4.081}
+{'text': "that we can have on axes we haven't even", 'start': 1274.48, 'duration': 4.48}
+{'text': 'started to scratch the surface', 'start': 1276.64, 'duration': 4.48}
+{'text': 'of of what is totally possible and that', 'start': 1278.96, 'duration': 5.199}
+{'text': 'is with our current list of body parts', 'start': 1281.12, 'duration': 5.039}
+{'text': 'right because we know now that', 'start': 1284.159, 'duration': 4.0}
+{'text': 'evolutions will soon be a thing so our', 'start': 1286.159, 'duration': 4.481}
+{'text': 'car count is going to be tripled', 'start': 1288.159, 'duration': 4.4}
+{'text': 'so instead of looking at a chart like', 'start': 1290.64, 'duration': 3.12}
+{'text': "this we're going to be looking at a", 'start': 1292.559, 'duration': 4.881}
+{'text': 'chart like this oh my god', 'start': 1293.76, 'duration': 4.72}
+{'text': 'yeah', 'start': 1297.44, 'duration': 4.719}
+{'text': "wow so what's that number", 'start': 1298.48, 'duration': 3.679}
+{'text': 'if we do the exact same calculations for', 'start': 1302.799, 'duration': 6.88}
+{'text': 'this we are looking at 705', 'start': 1305.679, 'duration': 7.36}
+{'text': 'billion total combinations', 'start': 1309.679, 'duration': 5.12}
+{'text': 'so what do you make of all of that where', 'start': 1313.039, 'duration': 4.241}
+{'text': 'does that put us', 'start': 1314.799, 'duration': 4.88}
+{'text': "so gonna be forever exploring that we're", 'start': 1317.28, 'duration': 4.8}
+{'text': 'gonna want to find those those perfect', 'start': 1319.679, 'duration': 4.401}
+{'text': 'combinations i mean what is what do you', 'start': 1322.08, 'duration': 3.76}
+{'text': "make of that it's", 'start': 1324.08, 'duration': 4.0}
+{'text': 'almost impossible to even conceive of', 'start': 1325.84, 'duration': 4.8}
+{'text': "right that's such a huge number i don't", 'start': 1328.08, 'duration': 4.079}
+{'text': "think we're ever going to have a meta", 'start': 1330.64, 'duration': 3.68}
+{'text': "where it's truly figured out i don't", 'start': 1332.159, 'duration': 4.0}
+{'text': 'know i think the entire i think the', 'start': 1334.32, 'duration': 4.4}
+{'text': 'entire season uh when we start to see', 'start': 1336.159, 'duration': 5.681}
+{'text': 'battles v3 come out in season 20 or 21', 'start': 1338.72, 'duration': 4.16}
+{'text': '22', 'start': 1341.84, 'duration': 2.719}
+{'text': 'whatever it is i think that meta is', 'start': 1342.88, 'duration': 3.279}
+{'text': 'going to be constantly evolving from the', 'start': 1344.559, 'duration': 3.281}
+{'text': 'beginning of the season to the end of', 'start': 1346.159, 'duration': 3.921}
+{'text': 'the season and then when they do the uh', 'start': 1347.84, 'duration': 4.319}
+{'text': "balance patch for the next season it's", 'start': 1350.08, 'duration': 4.64}
+{'text': 'going to restart all all over again so', 'start': 1352.159, 'duration': 4.88}
+{'text': "we're never really going to see the", 'start': 1354.72, 'duration': 4.4}
+{'text': "the full combination because it's always", 'start': 1357.039, 'duration': 3.361}
+{'text': "going to be evolving it's always going", 'start': 1359.12, 'duration': 3.36}
+{'text': 'to be changing and this number is so', 'start': 1360.4, 'duration': 4.159}
+{'text': 'high the full total of uh body part', 'start': 1362.48, 'duration': 3.76}
+{'text': "combinations isn't going to be realized", 'start': 1364.559, 'duration': 3.041}
+{'text': 'for', 'start': 1366.24, 'duration': 2.88}
+{'text': 'decades', 'start': 1367.6, 'duration': 4.24}
+{'text': "yeah no it wouldn't it's just like it's", 'start': 1369.12, 'duration': 4.96}
+{'text': 'the way it is now even um you know', 'start': 1371.84, 'duration': 4.319}
+{'text': "there's things that in the current", 'start': 1374.08, 'duration': 3.68}
+{'text': 'version of the game that we literally', 'start': 1376.159, 'duration': 3.441}
+{'text': 'just have not thought of that could be', 'start': 1377.76, 'duration': 3.68}
+{'text': 'super strong i mean', 'start': 1379.6, 'duration': 4.64}
+{'text': "it's just the way that this works and", 'start': 1381.44, 'duration': 5.2}
+{'text': "it's going to be constantly progressing", 'start': 1384.24, 'duration': 3.679}
+{'text': 'i think that things are going to', 'start': 1386.64, 'duration': 3.279}
+{'text': 'eventually stabilize a little bit more', 'start': 1387.919, 'duration': 2.961}
+{'text': 'and', 'start': 1389.919, 'duration': 3.441}
+{'text': 'season their value and utility uh maybe', 'start': 1390.88, 'duration': 4.48}
+{'text': 'we can then sell back', 'start': 1393.36, 'duration': 4.559}
+{'text': 'or de-evolve a body part or something', 'start': 1395.36, 'duration': 4.4}
+{'text': 'like that if we want to be able to like', 'start': 1397.919, 'duration': 4.0}
+{'text': 'shift and be more fluid in the meta', 'start': 1399.76, 'duration': 3.44}
+{'text': "rather than right now it's like you got", 'start': 1401.919, 'duration': 3.041}
+{'text': "to completely sell the axi i'm sure that", 'start': 1403.2, 'duration': 3.68}
+{'text': "they're thinking of ways to make it so", 'start': 1404.96, 'duration': 3.52}
+{'text': "that it's a little bit of a smoother", 'start': 1406.88, 'duration': 3.52}
+{'text': 'process for everyone going forward i', 'start': 1408.48, 'duration': 3.92}
+{'text': 'hope so yeah i definitely hope so i', 'start': 1410.4, 'duration': 3.279}
+{'text': 'would love to', 'start': 1412.4, 'duration': 3.279}
+{'text': 'be able to spend a little slp instead of', 'start': 1413.679, 'duration': 4.88}
+{'text': 'some hard-earned uh eath to uh compete', 'start': 1415.679, 'duration': 4.321}
+{'text': 'in the next season', 'start': 1418.559, 'duration': 3.761}
+{'text': "exactly exactly so we'll see we'll see i", 'start': 1420.0, 'duration': 4.88}
+{'text': "mean it's it's really we don't know this", 'start': 1422.32, 'duration': 4.959}
+{'text': 'super fun speculative video but there', 'start': 1424.88, 'duration': 5.52}
+{'text': 'are a lot of question marks that we will', 'start': 1427.279, 'duration': 6.0}
+{'text': 'have to just wait to find out yeah and i', 'start': 1430.4, 'duration': 4.24}
+{'text': 'i definitely i definitely think that', 'start': 1433.279, 'duration': 3.121}
+{'text': "you're right too with your uh with your", 'start': 1434.64, 'duration': 3.36}
+{'text': 'point about', 'start': 1436.4, 'duration': 3.12}
+{'text': 'you know still discovering new things in', 'start': 1438.0, 'duration': 3.36}
+{'text': 'the meta every day i mean you and indes', 'start': 1439.52, 'duration': 3.279}
+{'text': 'came out pretty much shocked a lot of', 'start': 1441.36, 'duration': 3.76}
+{'text': 'people with your spiky wing combo', 'start': 1442.799, 'duration': 3.76}
+{'text': "that wasn't that wasn't something that", 'start': 1445.12, 'duration': 3.28}
+{'text': 'was in the public consciousness at all', 'start': 1446.559, 'duration': 4.401}
+{'text': 'but you and indes found a way to make it', 'start': 1448.4, 'duration': 3.44}
+{'text': 'happen', 'start': 1450.96, 'duration': 2.88}
+{'text': 'yeah well i did spikey wing he went with', 'start': 1451.84, 'duration': 4.64}
+{'text': 'a very classic uh indes bird build with', 'start': 1453.84, 'duration': 4.56}
+{'text': 'the aqua but you know i mean and that', 'start': 1456.48, 'duration': 4.0}
+{'text': 'was actually curtsy of one of my', 'start': 1458.4, 'duration': 3.6}
+{'text': 'meditate teammates was running that', 'start': 1460.48, 'duration': 3.76}
+{'text': 'spikey aqua and uh', 'start': 1462.0, 'duration': 4.08}
+{'text': "yeah i was i was just decided i'm a", 'start': 1464.24, 'duration': 4.24}
+{'text': 'double aqua user so i just gave it a', 'start': 1466.08, 'duration': 3.76}
+{'text': "test run as well i was like yeah i'm", 'start': 1468.48, 'duration': 2.559}
+{'text': 'running with this', 'start': 1469.84, 'duration': 5.52}
+{'text': "so nice nice um but yeah let's uh let's", 'start': 1471.039, 'duration': 5.921}
+{'text': 'wrap this one up here ryan do you have', 'start': 1475.36, 'duration': 3.36}
+{'text': "any interesting thoughts i mean it's", 'start': 1476.96, 'duration': 3.52}
+{'text': "been a great video i've been super", 'start': 1478.72, 'duration': 3.839}
+{'text': 'intriguing for me to even start to think', 'start': 1480.48, 'duration': 4.72}
+{'text': 'about the stuff as well yeah definitely', 'start': 1482.559, 'duration': 5.12}
+{'text': 'um so with this with this insane number', 'start': 1485.2, 'duration': 5.44}
+{'text': 'of total combinations what we have right', 'start': 1487.679, 'duration': 5.681}
+{'text': 'now is less than one percent of what we', 'start': 1490.64, 'duration': 4.96}
+{'text': 'will be seeing in the future literally', 'start': 1493.36, 'duration': 4.799}
+{'text': "what what we've seen is such a small", 'start': 1495.6, 'duration': 4.64}
+{'text': "tiny portion of everything that's coming", 'start': 1498.159, 'duration': 5.281}
+{'text': "down and we're talking about uh why slp", 'start': 1500.24, 'duration': 5.6}
+{'text': 'is going to recover but i think the real', 'start': 1503.44, 'duration': 3.599}
+{'text': 'question is', 'start': 1505.84, 'duration': 3.52}
+{'text': 'what is going to replace slp you know', 'start': 1507.039, 'duration': 5.201}
+{'text': 'slp is so such a hot topic because it is', 'start': 1509.36, 'duration': 5.28}
+{'text': 'the current source of income for so many', 'start': 1512.24, 'duration': 4.799}
+{'text': 'people but as we start to move into', 'start': 1514.64, 'duration': 5.36}
+{'text': 'battles v3 with the releasing mechanism', 'start': 1517.039, 'duration': 5.601}
+{'text': 'uh with ron being introduced into the', 'start': 1520.0, 'duration': 4.96}
+{'text': 'ecosystem as well um and then with', 'start': 1522.64, 'duration': 4.8}
+{'text': 'project k there are going to be so many', 'start': 1524.96, 'duration': 5.04}
+{'text': 'other mechanisms for earning income that', 'start': 1527.44, 'duration': 5.04}
+{'text': 'i think slp might take a sort of side', 'start': 1530.0, 'duration': 4.88}
+{'text': 'role that is a great question and a', 'start': 1532.48, 'duration': 3.679}
+{'text': 'great thing to think about because we', 'start': 1534.88, 'duration': 3.12}
+{'text': 'know that there are these', 'start': 1536.159, 'duration': 3.681}
+{'text': 'different streams of revenue and', 'start': 1538.0, 'duration': 3.84}
+{'text': "resources there's arctic plots and", 'start': 1539.84, 'duration': 3.28}
+{'text': 'forest plots where you should be', 'start': 1541.84, 'duration': 3.12}
+{'text': "gathering wood and it's just", 'start': 1543.12, 'duration': 4.48}
+{'text': "there's so much that we can't even", 'start': 1544.96, 'duration': 4.16}
+{'text': 'quite think about', 'start': 1547.6, 'duration': 3.84}
+{'text': "that i think we're in store for and um", 'start': 1549.12, 'duration': 4.0}
+{'text': 'you might have a video coming up on why', 'start': 1551.44, 'duration': 3.839}
+{'text': "you potentially think slp won't even", 'start': 1553.12, 'duration': 4.4}
+{'text': 'matter as much as we currently think is', 'start': 1555.279, 'duration': 4.321}
+{'text': 'that correct exactly i definitely think', 'start': 1557.52, 'duration': 3.84}
+{'text': 'that slp is going to take a more back', 'start': 1559.6, 'duration': 3.6}
+{'text': "seat role in people's attention span as", 'start': 1561.36, 'duration': 3.439}
+{'text': 'they start to focus on these other', 'start': 1563.2, 'duration': 4.0}
+{'text': 'avenues for revenue well guys if you are', 'start': 1564.799, 'duration': 4.721}
+{'text': "interested in learning more about ryan's", 'start': 1567.2, 'duration': 5.2}
+{'text': 'thought pro on that in the future of slp', 'start': 1569.52, 'duration': 4.96}
+{'text': 'then make sure once again that you go to', 'start': 1572.4, 'duration': 3.44}
+{'text': "his youtube channel because he's going", 'start': 1574.48, 'duration': 4.319}
+{'text': 'to have a video out on that very shortly', 'start': 1575.84, 'duration': 4.8}
+{'text': 'and he has a ton of other amazing', 'start': 1578.799, 'duration': 4.721}
+{'text': 'axiomfinity youtube videos so subscribe', 'start': 1580.64, 'duration': 5.279}
+{'text': 'to his channel and on that note we are', 'start': 1583.52, 'duration': 4.72}
+{'text': 'going to wrap this video up uh it was a', 'start': 1585.919, 'duration': 3.921}
+{'text': 'long one we covered so many different', 'start': 1588.24, 'duration': 3.28}
+{'text': 'topics thanks for being on the channel', 'start': 1589.84, 'duration': 4.24}
+{'text': 'once again ryan did you want to say', 'start': 1591.52, 'duration': 4.56}
+{'text': 'anything else yeah just uh i mean thank', 'start': 1594.08, 'duration': 3.44}
+{'text': 'you thank you so much again for having', 'start': 1596.08, 'duration': 3.599}
+{'text': 'me on the channel it really is an honor', 'start': 1597.52, 'duration': 3.84}
+{'text': 'i started my actually infinity journey', 'start': 1599.679, 'duration': 3.281}
+{'text': 'watching you so being able to make', 'start': 1601.36, 'duration': 3.679}
+{'text': 'videos with you now is is really', 'start': 1602.96, 'duration': 4.079}
+{'text': "something special so thanks let's go", 'start': 1605.039, 'duration': 4.0}
+{'text': 'thanks brother appreciate that all right', 'start': 1607.039, 'duration': 3.601}
+{'text': "everyone thanks again for watching we'll", 'start': 1609.039, 'duration': 5.52}
+{'text': 'see you in the next one peace', 'start': 1610.64, 'duration': 3.919}
