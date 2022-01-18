@@ -1,9 +1,7 @@
 #Importing useful and essential libraries
-import timeit
 from pytube import YouTube
 from pytube import Playlist
 from time import sleep
-start_time=timeit.default_timer()
 import pytube.request
 import getpass
 user=str(getpass.getuser())
@@ -103,11 +101,12 @@ if PLAYLIST:
 
 #If the user only want the audio
 if status == '1':
-    file_name = Audio.title+ '.mp3'
-    print(f'\t File size -> {round(Audio.filesize*0.000001)} MB\n\tFile name -> {file_name}')
+    audio = yts.streams.get_audio_only()
+    file_name = audio.title+ '.mp3'
+    print(f'\t File size -> {round(audio.filesize*0.000001)} MB\n\tFile name -> {file_name}')
+    status =  audio
     singer_name=yts.author.replace(" - Topic",'')
-    path = f'C:/Users/{user}/Desktop/AYD/{singer_name}'
-    status =  Audio
+    path = f'Y:/Music/YD/{singer_name}'
     status.download(output_path = path ,filename = file_name)
 
 #if the user want the video
@@ -179,6 +178,4 @@ elif status == '2':
     os.rmdir(path)
     print()
     print('Merging was successful & everything worked fine :)')
-print('------------------------------------------------------------')
-print(timeit.default_timer() - start_time)
 #Thats it, we are done here
