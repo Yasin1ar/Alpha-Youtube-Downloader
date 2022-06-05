@@ -18,7 +18,7 @@ simple, Easy to use & interactive with user
 
 Note : The python version you have must be 3 or higher, and you have to Install FFmpeg in case that you did not before.
 
-**###Installing FFmpeg**
+**Installing FFmpeg**
 
 [Windows Tutorial](https://windowsloop.com/install-ffmpeg-windows-10/)
 
