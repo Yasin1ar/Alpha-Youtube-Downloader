@@ -1,12 +1,18 @@
 # Alpha-Youtube-Downloader
-A cmd-looks-interface Program for downloading Videos &amp; Audios from YouTube using pytube (Python library)
+## A cmd-looks-interface Program for downloading Videos &amp; Audios from YouTube using pytube (Python library)
 
 It has many efficient features likes:
+
 Downloading Videos
+
 Downloading Audios
+
 Downloading Playlist of videos or Audios
+
 Any quality you want, even hihger than 1080p and 4k if video suppurts!
+
 simple, Easy to use & interactive with user
+
 Note : The python version you have must be 3 or higher, and you have to Install FFmpeg in case that you did not before.
 
 Installing FFmpeg
