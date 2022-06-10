@@ -1,10 +1,10 @@
 # Alpha-Youtube-Downloader
-## A cmd-looks-interface Program for downloading Videos &amp; Audios from YouTube using pytube (Python library)
+## A Program for downloading Videos &amp; Audios from YouTube using pytube (Python library)
 
 ![preview image](https://github.com/Yasin1ar/Alpha-Youtube-Downloader/blob/5280cd091faf5f43c1f84eeb102996cf054cb592/Preview.PNG)
 
 
-It has many efficient features likes:
+It has many efficient features like:
 
 Downloading Videos
 
